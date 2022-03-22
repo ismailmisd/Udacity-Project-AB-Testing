@@ -1,1 +1,1 @@
-# Udacity-Project-AB-Testing
+# Udacity Project A/B Testing
