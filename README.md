@@ -2,7 +2,7 @@
 
 ## Introduction
  * ### About this project
-   this is my **Udacity's Advanced Data Analysis Nanodedegree** graduation project 
+   this is my **Udacity's Advanced Data Analysis Nanodegree** graduation project 
 
 
  * ### About A/B Testing
